@@ -1,9 +1,7 @@
 import numpy as np
-from matplotlib import pyplot as plt
 from scipy import signal
 import sounddevice as sd
 from scipy.io.wavfile import read
-import math
 import time
 import pysptk 
 
